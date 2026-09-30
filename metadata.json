@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A sleek, modern task management mobile application with local offline persistence and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
